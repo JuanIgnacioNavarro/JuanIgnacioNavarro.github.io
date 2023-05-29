@@ -23,12 +23,11 @@ const Index = () => {
         <div className="hero_content">
           <div className="container">
             <div className="content">
-              <h2 className="fn_title" title="Neoh">
-                Neoh
+              <h2 className="fn_title" title="Tora">
+                Tora
               </h2>
               <p className="fn_desc fn_animated_text">
-                The collection built by and runby codeefly. Together we are
-                strong than ever.
+                Desarrollo y comercialización de productos tokenizados
               </p>
             </div>
           </div>
@@ -36,7 +35,7 @@ const Index = () => {
             href="#about"
             className="neoh_fn_down magic-hover magic-hover__square"
           >
-            <span className="text">Scroll Down</span>
+            <span className="text">Ver más</span>
             <span className="icon">
               <img src="svg/right-arr.svg" alt="" className="fn__svg" />
             </span>

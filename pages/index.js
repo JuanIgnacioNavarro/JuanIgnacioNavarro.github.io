@@ -16,7 +16,7 @@ const Index = () => {
           <div className="bg_color" />
           {/* !Overlay Color */}
           {/* Overlay Image */}
-          <div className="bg_image" data-bg-img="img/hero/bg.jpg" />
+          <div className="bg_image" data-bg-img="img/hero/" />
           {/* !Overlay Image */}
         </div>
         {/* Overlay (of hero header) */}

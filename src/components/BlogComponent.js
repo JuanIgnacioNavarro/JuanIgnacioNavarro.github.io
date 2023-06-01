@@ -5,7 +5,7 @@ const BlogComponent = () => {
       <div className="container">
         {/* Main Title */}
         <div className="neoh_fn_title">
-          <h3 className="fn_title">Neohs News</h3>
+          <h3 className="fn_title">Opiniones de nuestros clientes sobre Tora developer</h3>
           <div className="line">
             <span />
           </div>
@@ -18,21 +18,20 @@ const BlogComponent = () => {
               <div className="item">
                 <img src="img/blog/1.jpg" alt="" className="moving_img" />
                 <p className="fn_date">
-                  <span>June 01, 2022</span>
+                  <span>Empresa nro 1</span>
                 </p>
                 <h3 className="fn_title">
                   <Link href="/blog-single">
-                    Neohs NFT Goes Public In Nod To Crypto Adoption
+                    Titulo sobre empresa nro 1
                   </Link>
                 </h3>
                 <p className="fn_desc">
-                  Morbi non dignissim erat, a blandit felis nec lorem vel orci
-                  varius congue ut vitae est.
+                  Subtitulo de empresa nro 1
                 </p>
                 <p className="fn_read">
                   <Link href="/blog-single">
                     <a className="neoh_fn_button only_text">
-                      <span className="text">Read More</span>
+                      <span className="text">Visitar proyecto</span>
                     </a>
                   </Link>
                 </p>
@@ -42,21 +41,20 @@ const BlogComponent = () => {
               <div className="item">
                 <img src="img/blog/2.jpg" alt="" className="moving_img" />
                 <p className="fn_date">
-                  <span>May 25, 2022</span>
+                  <span>Empresa nro 2</span>
                 </p>
                 <h3 className="fn_title">
                   <Link href="/blog-single">
-                    Bankman-Fried Would Like to Talk With Musk About Twitter
+                    Titulo sobre empresa nro 2
                   </Link>
                 </h3>
                 <p className="fn_desc">
-                  Morbi non dignissim erat, a blandit felis nec lorem vel orci
-                  varius congue ut vitae est.
+                  Subtitulo sobre empresa nro 2
                 </p>
                 <p className="fn_read">
                   <Link href="/blog-single">
                     <a className="neoh_fn_button only_text">
-                      <span className="text">Read More</span>
+                      <span className="text">Visitar proyecto</span>
                     </a>
                   </Link>
                 </p>
@@ -66,21 +64,20 @@ const BlogComponent = () => {
               <div className="item">
                 <img src="img/blog/3.jpg" alt="" className="moving_img" />
                 <p className="fn_date">
-                  <span>May 13, 2022</span>
+                  <span>Empresa nro 3</span>
                 </p>
                 <h3 className="fn_title">
                   <Link href="/blog-single">
-                    Crypto-Focused Silvergate Jumps on Blowout Earnings Report
+                    Titulo sobre empresa nro 3
                   </Link>
                 </h3>
                 <p className="fn_desc">
-                  Morbi non dignissim erat, a blandit felis nec lorem vel orci
-                  varius congue ut vitae est.
+                  Subtitulo sobre empresa nro 3
                 </p>
                 <p className="fn_read">
                   <Link href="/blog-single">
                     <a className="neoh_fn_button only_text">
-                      <span className="text">Read More</span>
+                      <span className="text">Visitar proyecto</span>
                     </a>
                   </Link>
                 </p>

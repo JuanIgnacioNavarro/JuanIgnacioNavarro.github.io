@@ -16,7 +16,7 @@ const WhyChooseUsComponent = () => {
       <div className="container">
         {/* Main Title */}
         <div className="neoh_fn_title">
-          <h3 className="fn_title">Neohs Investors</h3>
+          <h3 className="fn_title">Empresas que confían en nosotros</h3>
           <div className="line">
             <span />
           </div>
@@ -49,13 +49,13 @@ const WhyChooseUsComponent = () => {
                 <a href="#" className="full_link" />
               </div>
             </li>
-            <li>
+             <li>
               <div className="item">
                 <img src="img/investors/5.png" alt="" />
                 <a href="#" className="full_link" />
               </div>
-            </li>
-            <li>
+            </li> 
+            {/* <li>
               <div className="item">
                 <img src="img/investors/6.png" alt="" />
                 <a href="#" className="full_link" />
@@ -84,7 +84,7 @@ const WhyChooseUsComponent = () => {
                 <img src="img/investors/10.png" alt="" />
                 <a href="#" className="full_link" />
               </div>
-            </li>
+            </li> */}
           </ul>
         </div>
         {/* !Investor List Shortcode */}

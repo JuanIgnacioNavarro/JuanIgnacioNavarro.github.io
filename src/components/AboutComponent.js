@@ -4,9 +4,17 @@ const AboutComponent = () => {
     <section id="about">
       <div className="container">
         {/* About Item #1 */}
+        <div className="neoh_fn_title">
+          <h3 className="fn_title">Proyectos realizados en la blockchain</h3>
+          <div className="line">
+            <span />
+          </div>
+        </div>
+        <br/>
+        <br/>
         <div className="neoh_fn_about_item">
           <div className="img_item">
-            <img src="../../public/img/about/imgMountain.png" alt="" />
+            <img src="img/about/imgMountain.png" alt="" />
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">

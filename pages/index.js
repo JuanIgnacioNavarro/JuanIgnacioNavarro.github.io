@@ -4,11 +4,11 @@ import Drops from "../src/components/Drops";
 import ServicesComponent from "../src/components/ServicesComponent";
 import WhyChooseUsComponent from "../src/components/WhyChooseUsComponent";
 import Layout from "../src/layout/Layout";
-import PainPoint from "../src/components/painPoint";
+import PainPoint from "../src/components/PainPoint";
 
 const Index = () => {
   return (
-    <Layout pageName={"Home Static"}>
+    <Layout pageName={"DEVELOPER"}>
       {/* Hero Header */}
       <div className="neoh_fn_hero">
         {/* Overlay (of hero header) */}
@@ -17,7 +17,7 @@ const Index = () => {
           <div className="bg_color" />
           {/* !Overlay Color */}
           {/* Overlay Image */}
-          <div className="bg_image" data-bg-img="img/hero/" />
+          <div className="bg_image" data-bg-img="img/hero/home.png" />
           {/* !Overlay Image */}
         </div>
         {/* Overlay (of hero header) */}
@@ -44,6 +44,7 @@ const Index = () => {
         </div>
       </div>
       {/* !Hero Header */}
+      <PainPoint/>
       {/* About Section */}
       {/* <PainPoint /> */}
       <AboutComponent />
@@ -51,7 +52,7 @@ const Index = () => {
       {/* Services Section */}
       <ServicesComponent />
       {/* !Services Section */}
-      <Drops />
+      {/* <Drops /> */}
       {/* Investor Section */}
       <WhyChooseUsComponent />
       {/* !Investor Section */}

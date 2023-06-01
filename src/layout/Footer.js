@@ -37,11 +37,11 @@ const Footer = () => {
               </div>
               <div className="neoh_fn_social_list">
                 <ul>
-                  <li>
+                  {/* <li>
                     <a href="#">
                       <i className="fn-icon-twitter" />
                     </a>
-                  </li>
+                  </li> */}
                   <li>
                     <a href="#">
                       <i className="fn-icon-facebook" />
@@ -52,11 +52,11 @@ const Footer = () => {
                       <i className="fn-icon-instagram" />
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href="#">
                       <i className="fn-icon-pinterest" />
                     </a>
-                  </li>
+                  </li> */}
                   <li>
                     <a href="#">
                       <i className="fn-icon-behance" />
@@ -81,7 +81,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Codeefly
+                    Tora Developer
                   </a>
                 </p>
               </div>
@@ -90,12 +90,12 @@ const Footer = () => {
                   <li>
                     <Link href="/roadmap">RoadMap</Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href="#">Cookies</a>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <a href="#">Terms &amp; Conditions</a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>

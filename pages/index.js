@@ -4,6 +4,7 @@ import Drops from "../src/components/Drops";
 import ServicesComponent from "../src/components/ServicesComponent";
 import WhyChooseUsComponent from "../src/components/WhyChooseUsComponent";
 import Layout from "../src/layout/Layout";
+import PainPoint from "../src/components/painPoint";
 
 const Index = () => {
   return (
@@ -44,6 +45,7 @@ const Index = () => {
       </div>
       {/* !Hero Header */}
       {/* About Section */}
+      {/* <PainPoint /> */}
       <AboutComponent />
       {/* !About Section */}
       {/* Services Section */}

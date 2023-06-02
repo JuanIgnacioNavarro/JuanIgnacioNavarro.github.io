@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/Image"
 const AboutComponent = () => {
   return (
     <section id="about">
@@ -14,7 +15,7 @@ const AboutComponent = () => {
         <br/>
         <div className="neoh_fn_about_item">
           <div className="img_item">
-            <img src="img/about/imgMountain.png" alt="" />
+            <Image src="/img/about/imgMountain.png" alt="" width={600} height={400}/>
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">
@@ -61,7 +62,7 @@ const AboutComponent = () => {
         {/* About Item #2 */}
         <div className="neoh_fn_about_item reverse">
           <div className="img_item">
-            <img src="img/about/vistasUnicas.png" alt="" />
+            <Image src="/img/about/imgMountain.png" alt=""  width={600} height={400}/>
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">

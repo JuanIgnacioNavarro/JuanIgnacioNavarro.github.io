@@ -1,17 +1,17 @@
-import Link from "next/link";
+/* import Link from "next/link";
 const BlogComponent = () => {
   return (
     <section id="blog">
       <div className="container">
-        {/* Main Title */}
+       Main Title 
         <div className="neoh_fn_title">
           <h3 className="fn_title">Opiniones de nuestros clientes sobre Tora developer</h3>
           <div className="line">
             <span />
           </div>
         </div>
-        {/* !Main Title */}
-        {/* Moving Blog List Shortcode */}
+        {/* !Main Title 
+        {/* Moving Blog List Shortcode
         <div className="neoh_fn_moving_blog">
           <ul>
             <li>
@@ -28,6 +28,9 @@ const BlogComponent = () => {
                 <p className="fn_desc">
                   Subtitulo de empresa nro 1
                 </p>
+                <video loop autoPlay muted>
+                  <source src="https://www.youtube.com/watch?v=bo6GRBLk6PE&list=RDaRf7918NhtE&index=3" type="video/mp4" />
+                </video>
                 <p className="fn_read">
                   <Link href="/blog-single">
                     <a className="neoh_fn_button only_text">
@@ -85,9 +88,10 @@ const BlogComponent = () => {
             </li>
           </ul>
         </div>
-        {/* !Moving Blog List Shortcode */}
+        {/* !Moving Blog List Shortcode
       </div>
     </section>
   );
 };
 export default BlogComponent;
+ */

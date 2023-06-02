@@ -1403,7 +1403,7 @@ a.full_link{
 }
 
 /* Moving Blog List Shortcode */
-.neoh_fn_moving_blog .moving_img{
+.neoh_fn_moving_blog{
 	opacity: 0;
 	height: 0;
 	width: 0;
@@ -4511,7 +4511,7 @@ a.full_link{
 	.neoh_fn_moving_blog li{
 		width: 50%;
 	}
-	.neoh_fn_moving_blog .moving_img{
+	.neoh_fn_moving_blog{
 		opacity: 1;
 		height: auto;
 		width: 100%;

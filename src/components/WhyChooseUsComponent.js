@@ -1,13 +1,17 @@
+import Image from "next/Image";
+
 const WhyChooseUsComponent = () => {
   return (
     <section id="investor">
       {/* Dividers */}
-      <img
-        src="svg/divider.svg"
+      <Image
+        src="/svg/divider.svg"
+        width={50}
+        height={50}
         alt=""
         className="fn__svg fn__divider top_divider"
       />
-      <img
+       <img
         src="svg/divider.svg"
         alt=""
         className="fn__svg fn__divider bottom_divider"

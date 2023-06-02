@@ -73,10 +73,10 @@ const AboutComponent = () => {
             </div>
             <div className="desc">
               <p>
-                El proyecto NFT "Vistas Únicas" ofrece una propuesta única en la que los compradores de NFTs del proyecto tienen la oportunidad de adquirir un módulo residencial. Estos módulos residenciales brindan a los poseedores de los NFTs la posibilidad de disfrutar de una experiencia exclusiva y única en un entorno privilegiado.
+                El proyecto NFT Vistas Únicas ofrece una propuesta única en la que los compradores de NFTs del proyecto tienen la oportunidad de adquirir un módulo residencial. Estos módulos residenciales brindan a los poseedores de los NFTs la posibilidad de disfrutar de una experiencia exclusiva y única en un entorno privilegiado.
               </p>
               <p>
-                Los propietarios de los NFTs también pueden obtener intereses de las ganancias generadas por el proyecto, lo que les brinda una oportunidad adicional de obtener beneficios económicos. Esta combinación de arte digital, adquisición de propiedades y participación en las ganancias hace que el proyecto "Vistas Únicas" sea atractivo tanto para los coleccionistas de NFTs como para los inversores interesados en propiedades y oportunidades financieras.
+                Los propietarios de los NFTs también pueden obtener intereses de las ganancias generadas por el proyecto, lo que les brinda una oportunidad adicional de obtener beneficios económicos. Esta combinación de arte digital, adquisición de propiedades y participación en las ganancias hace que el proyecto Vistas Únicas sea atractivo tanto para los coleccionistas de NFTs como para los inversores interesados en propiedades y oportunidades financieras.
               </p>
             </div>
             <div className="buttons">
